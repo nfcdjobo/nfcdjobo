@@ -1,10 +1,11 @@
-# 👨‍💻 **NFC DJOBO** - System Administrator
+# 👨‍💻 **DJOBO N'dri François Carêm** - Full Stack Developer & System Administrator
 
 <div align="center">
 
-![Profile Badge](https://img.shields.io/badge/System-Administrator-blue?style=for-the-badge&logo=linux)
-![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-brightgreen?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Your%20Location-red?style=for-the-badge&logo=map-pin)
+![Full Stack Developer](https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge&logo=react)
+![System Administrator](https://img.shields.io/badge/System-Administrator-green?style=for-the-badge&logo=linux)
+![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-brightgreen?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Côte%20d'Ivoire-orange?style=for-the-badge&logo=map-pin)
 
 </div>
 
@@ -16,17 +17,18 @@
 <tr>
 <td>
 
-📧 **Email:** your.email@example.com  
-📱 **Phone:** +33 X XX XX XX XX  
-🌐 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🏠 **Location:** Your City, Country  
+📧 **Email:** nfcdjobo@gmail.com  
+📱 **Phone 1:** +225 0575554499  
+📱 **Phone 2:** +225 0140940330  
+🏠 **Location:** Abidjan, Côte d'Ivoire  
+🇨🇮 **Nationality:** Ivorian  
 
 </td>
 <td>
 
-💼 **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
-🌍 **Website:** [yourportfolio.com](https://yourportfolio.com)  
-💬 **Languages:** French, English  
+💼 **GitHub:** [github.com/nfcdjobo](https://github.com/nfcdjobo)  
+🌐 **LinkedIn:** [nfcdjobofullstackdeveloper](https://www.linkedin.com/in/nfcdjobofullstackdeveoper/)  
+💬 **Languages:** French (Native), English (Intermediate), Spanish (Intermediate)  
 
 </td>
 </tr>
@@ -37,12 +39,13 @@
 ## 🎯 **Professional Summary**
 
 ```yaml
-Profile: Experienced System Administrator with 5+ years in IT infrastructure
-Focus: Linux Administration, Network Security, Cloud Technologies
-Passion: Automation, DevOps practices, and system optimization
+Profile: Full Stack Developer & System Administrator with 3+ years experience
+Expertise: Modern web development, cloud infrastructure, and system automation
+Current Role: Full Stack Developer & System Administrator at AkorIT
+Education: Bachelor's in Database Systems (UVCI, 2021)
 ```
 
-> **"Passionate about building robust, scalable, and secure IT infrastructures that drive business success."**
+> **"Passionate about building scalable web applications and robust IT infrastructures that drive digital transformation in West Africa."**
 
 ---
 
@@ -84,122 +87,225 @@ ElasticSearch/Kibana           ████████████         60%
 
 ## 💼 **Professional Experience Analytics**
 
-### **🔧 Senior System Administrator**
-**Company Name** | *January 2021 - Present*
+### **🚀 Full Stack Developer & System Administrator**
+**AkorIT** | *August 2024 - August 2025*
 
-#### **📊 Key Performance Indicators - Graphiques en Bâtons**
+#### **📊 Key Responsibilities - Graphiques en Bâtons**
 ```
-System Uptime Improvement    ██████████████████████████████ 40%
-Cost Reduction Achievement   █████████████████████████      35%
-Security Incident Reduction ████████████████████████████   42%
-Automation Implementation    ███████████████████████████    38%
-Team Productivity Increase   ██████████████████████████     36%
+Application Design & Architecture   ███████████████████████████████ 95%
+System Deployment & Maintenance     ██████████████████████████████  90%
+Security & Availability Management  ████████████████████████████    88%
+Infrastructure Optimization         ███████████████████████████     85%
+Team Collaboration & Support        ██████████████████████████      82%
 ```
 
-#### **🎯 Monthly Performance Tracking - Graphique Courbe**
+#### **🎯 Technology Stack Performance - Graphique Courbe**
 ```mermaid
 xychart-beta
-    title "Infrastructure Performance Metrics (2024)"
-    x-axis ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug"]
-    y-axis "Performance Score" 0 --> 100
-    line [78, 82, 85, 88, 91, 94, 96, 98]
+    title "Technology Implementation Progress (2024-2025)"
+    x-axis ["Aug '24", "Oct '24", "Dec '24", "Feb '25", "Apr '25", "Jun '25", "Aug '25"]
+    y-axis "Implementation Level" 0 --> 100
+    line [65, 72, 78, 85, 90, 95, 98]
 ```
 
 <details>
 <summary><b>Key Achievements & Responsibilities</b></summary>
 
-#### **📈 Impact Metrics - Graphique Circulaire**
+#### **📈 Project Distribution - Graphique Circulaire**
 ```mermaid
-pie title Resource Allocation Impact
-    "Infrastructure Optimization" : 35
-    "Security Enhancement" : 25
-    "Team Development" : 20
-    "Process Automation" : 20
+pie title Workload Distribution
+    "Full Stack Development" : 45
+    "System Administration" : 35
+    "Security & Maintenance" : 20
 ```
 
-- 🎯 **Infrastructure Management:** Managed 200+ servers across multiple data centers
-- 🚀 **Performance Improvement:** Reduced system downtime by 40% through proactive monitoring
-- 🔒 **Security Implementation:** Implemented comprehensive security policies and compliance frameworks
-- ⚡ **Automation:** Automated routine tasks saving 30+ hours/week using Ansible and Python scripts
-- 📊 **Team Leadership:** Led a team of 5 junior administrators and provided technical mentoring
+- 🎯 **Application Design:** Designing scalable web applications with modern frameworks
+- 🚀 **System Deployment:** Deploying and maintaining business-critical applications
+- 🔒 **Security Management:** Ensuring accessibility, availability, and security compliance
+- ⚡ **Infrastructure:** Managing server infrastructure and cloud deployments
+- 📊 **Performance:** Optimizing application and system performance
 
 **Technologies Used:** 
-`Linux` `AWS` `Ansible` `Docker` `Kubernetes` `Python` `Bash` `MySQL`
+`React.js` `Node.js` `PHP Laravel` `Docker` `Kubernetes` `Linux` `MySQL` `PostgreSQL`
+
+**Reference:** Mr. CARMEN: +2250767100789
 
 </details>
 
-### **🔧 System Administrator**
-**Previous Company** | *June 2019 - December 2020*
+### **💻 Backend Developer**
+**Digitech Africa** | *January 2024 - July 2024*
 
-#### **📊 Skills Development - Graphique en Bandes**
+#### **📊 Development Focus - Graphique en Bandes**
 <div align="center">
 
-**Technical Growth During Role**
+**API Development & Integration**
 
-![System Administration](https://geps.dev/progress/85?color=ff6b6b&backgroundColor=lightgrey) **System Administration - 85%**
+![Backend Architecture](https://geps.dev/progress/90?color=ff6b6b&backgroundColor=lightgrey) **API Architecture - 90%**
 
-![Cloud Migration](https://geps.dev/progress/70?color=4ecdc4&backgroundColor=lightgrey) **Cloud Migration - 70%**
+![Database Design](https://geps.dev/progress/85?color=4ecdc4&backgroundColor=lightgrey) **Database Design - 85%**
 
-![Automation Scripts](https://geps.dev/progress/75?color=45b7d1&backgroundColor=lightgrey) **Automation Scripts - 75%**
+![Server Management](https://geps.dev/progress/80?color=45b7d1&backgroundColor=lightgrey) **Server Management - 80%**
 
-![Security Compliance](https://geps.dev/progress/80?color=96ceb4&backgroundColor=lightgrey) **Security Compliance - 80%**
+![Code Optimization](https://geps.dev/progress/88?color=96ceb4&backgroundColor=lightgrey) **Code Optimization - 88%**
 
 </div>
 
 <details>
-<summary><b>Key Achievements & Responsibilities</b></summary>
+<summary><b>Key Achievements & Technologies</b></summary>
 
-#### **🏗️ Project Distribution - Graphique Radar**
+#### **🏗️ Backend Skills Matrix - Graphique Radar**
 ```mermaid
 radar
-    title Project Focus Areas
+    title Backend Development Focus
     options:
         scale: 0
         max: 100
-    "Infrastructure Setup" : 90
-    "System Optimization" : 85
-    "Backup Solutions" : 95
-    "Monitoring Implementation" : 80
-    "Security Hardening" : 75
-    "Documentation" : 70
+    "RESTful APIs" : 90
+    "Database Optimization" : 85
+    "Server Architecture" : 82
+    "Performance Tuning" : 88
+    "Security Implementation" : 80
+    "Code Documentation" : 75
 ```
 
-- 🏗️ **Infrastructure Setup:** Designed and implemented scalable server infrastructure
-- 📈 **System Optimization:** Improved system performance by 25% through optimization techniques
-- 🛡️ **Backup Solutions:** Implemented comprehensive backup and disaster recovery solutions
-- 📊 **Monitoring:** Set up comprehensive monitoring using Nagios and Grafana
+- 🏗️ **API Development:** Built robust RESTful APIs and microservices
+- 📈 **Database Management:** Optimized database queries and performance
+- 🛡️ **Security:** Implemented authentication and authorization systems
+- 📊 **Integration:** Integrated third-party services and payment gateways
 
 **Technologies Used:** 
-`CentOS` `VMware` `Nagios` `Apache` `PostgreSQL` `Shell Scripting`
+`Node.js` `Express.js` `PHP` `MySQL` `PostgreSQL` `Docker` `Git`
+
+**Reference:** Mr. KIMANA: +2250707390060
 
 </details>
 
 ---
 
-## 🎓 **Education & Certifications**
+## 🎓 **Education & Professional Training**
 
 ### **📚 Academic Background**
 ```
-🎓 Bachelor's Degree in Computer Science
-   University Name | 2018
+🎓 Bachelor's Degree in Database Systems
+   Virtual University of Côte d'Ivoire (UVCI) | 2021
    
-🎓 System Administration Diploma
-   Institution Name | 2017
+🎓 Baccalaureate Series C (Scientific)
+   Lycée Moderne de Tiassalé | 2017
 ```
 
-### **🏆 Professional Certifications**
+### **🏆 Professional Training Timeline**
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect-orange?style=for-the-badge&logo=amazon-aws)
-![Linux](https://img.shields.io/badge/Linux-RHCSA-red?style=for-the-badge&logo=redhat)
-![Microsoft](https://img.shields.io/badge/Microsoft-Azure%20Administrator-blue?style=for-the-badge&logo=microsoft-azure)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Advanced-blue?style=for-the-badge&logo=kubernetes)
+![Docker](https://img.shields.io/badge/Docker-Expert-0db7ed?style=for-the-badge&logo=docker)
+![JavaScript](https://img.shields.io/badge/JavaScript-Full%20Stack-f7df1e?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-Laravel-777bb4?style=for-the-badge&logo=php)
 
 </div>
 
-- ✅ **AWS Certified Solutions Architect** (2023)
-- ✅ **Red Hat Certified System Administrator** (2022)
-- ✅ **Microsoft Azure Administrator Associate** (2022)
-- ✅ **CompTIA Security+** (2021)
+### **📈 Training Progress - Graphique Timeline**
+```mermaid
+timeline
+    title Professional Development Journey
+    
+    section 2022
+        Web Development : PHP Laravel Training
+                        : PDO, MySQL, MariaDB
+                        : IT Academy (10 months)
+    
+    section 2023
+        Full Stack JS   : Node.js, Express.js
+                        : React.js, React Native
+                        : Angular.js at NaN Digital Academy
+    
+    section 2024
+        DevOps Skills   : Advanced Docker & Virtualization
+                        : Kubernetes & Jenkins
+                        : LinkedIn Learning Platform
+```
+
+---
+
+## 🏗️ **Featured Development Projects**
+
+### **💳 Cerveau Money - Digital Payment Platform**
+```yaml
+Description: Dynamic digital payment platform for financial transactions
+Technologies: Node.js, Express.js, React.js, MongoDB, Payment APIs
+Duration: August 2023
+Status: Production Ready
+Link: https://cerveau.onrender.com/
+Academy: NaN Digital Academy
+```
+
+**Project Impact Metrics:**
+```
+User Experience Design      ████████████████████████████ 90%
+Payment Integration        ██████████████████████████   85%
+Security Implementation    █████████████████████████    88%
+Performance Optimization   ████████████████████████     82%
+```
+
+### **🎨 Sophia Culturas - Art Exhibition Platform**
+```yaml
+Description: Dynamic platform for showcasing and managing artistic works
+Technologies: React.js, Node.js, Express.js, PostgreSQL, Image Processing
+Duration: July 2023
+Status: Live Production
+Link: https://sophiaculturas.onrender.com
+Academy: NaN Digital Academy
+```
+
+### **🚗 Parejo Viaje - Transport Management System**
+```yaml
+Description: Comprehensive transport company management platform
+Technologies: React.js, JavaScript, Bootstrap, RESTful APIs
+Duration: June 2023  
+Status: Deployed
+Link: https://nfcdjobo.github.io/parejo-transport
+Academy: NaN Digital Academy
+```
+
+### **👥 Pro Gest All - Personnel Management System**
+```yaml
+Description: Dynamic web application for human resource management
+Technologies: PHP, JavaScript, MySQL, Bootstrap, Ajax
+Duration: May 2023
+Status: Production
+Link: https://nfcdjobo.github.io/Pro-Gest-All
+Academy: NaN Digital Academy
+Reference: Mr. KOUAME: +2250759362229
+```
+
+### **🏢 Business Platforms - Enterprise Solutions**
+```yaml
+Description: IT Evolutions platform (now Barri Services) & Bolou Business Center
+Technologies: PHP Laravel, MySQL, JavaScript, Bootstrap
+Duration: 2022
+Status: Live Production
+Links: 
+  - https://barriservices.com
+  - https://www.bbcenter.africa
+Reference: Mr. KADJO: +2250708948093
+```
+
+### **📊 Projects Technology Distribution - Graphique Circulaire**
+```mermaid
+pie title Technology Usage Across Projects
+    "React.js & Frontend" : 35
+    "Node.js & Backend" : 30
+    "PHP & Laravel" : 20
+    "Database Management" : 15
+```
+
+### **🎯 Project Success Rate - Graphique en Barres**
+```
+Project Completion Rate     ████████████████████████████████ 100%
+Client Satisfaction Rate    ██████████████████████████████   95%
+On-Time Delivery Rate      █████████████████████████████    92%
+Performance Benchmarks     ████████████████████████████     88%
+Code Quality Standards     ██████████████████████████████   90%
+```
 
 ---
 
@@ -328,88 +434,110 @@ timeline
 
 ---
 
-## 📊 **GitHub Stats & Analytics**
+## 📊 **GitHub Stats & Development Analytics**
 
 <div align="center">
 
-### **📈 Contribution Activity - Graphique Courbe**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
+### **📈 GitHub Performance - Graphique Courbe**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nfcdjobo&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
 
 ### **🔥 Language Distribution - Graphique Circulaire**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=pie&theme=radical&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nfcdjobo&layout=pie&theme=radical&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40)
 
-### **⚡ Streak Stats - Graphique en Bandes**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&background=130F40&stroke=7A7ADB&ring=7A7ADB&fire=FF6B35&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=7A7ADB&sideLabels=7A7ADB)
+### **⚡ Contribution Streak - Graphique en Bandes**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nfcdjobo&theme=radical&background=130F40&stroke=7A7ADB&ring=7A7ADB&fire=FF6B35&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=7A7ADB&sideLabels=7A7ADB)
 
 </div>
 
-### **🏆 Repository Performance - Graphique en Bâtons**
+### **🏆 Repository Portfolio - Graphique en Bâtons**
 ```
-ansible-playbooks       ⭐⭐⭐⭐⭐ 145 stars │████████████████████ 95%
-docker-compose-stack    ⭐⭐⭐⭐   89 stars  │██████████████       68%
-monitoring-scripts      ⭐⭐⭐     67 stars  │████████████         58%
-infrastructure-as-code  ⭐⭐⭐⭐⭐ 203 stars │████████████████████ 100%
-backup-automation       ⭐⭐⭐     45 stars  │██████████           48%
+parejo-transport           🚗 Transport Management   │████████████████████ 95%
+Pro-Gest-All              👥 HR Management System   │██████████████████   90%
+cerveau-money-platform    💳 Payment Solution       │███████████████████  92%
+sophia-culturas           🎨 Art Exhibition App     │█████████████████    88%
+barri-services            🏢 Business Platform      │██████████████████   89%
+docker-configurations     🐳 DevOps Scripts        │████████████████     85%
 ```
 
-## 🌟 **Competency Mapping & Analysis**
+### **💻 Development Activity Heatmap**
+<div align="center">
 
-### **📊 Skills Matrix - Graphique Radar Avancé**
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nfcdjobo&theme=react-dark&bg_color=20232a&hide_border=true)
+
+</div>
+
+## 🌟 **Full Stack Competency Matrix**
+
+### **📊 Frontend vs Backend Skills - Graphique Radar Comparatif**
 ```mermaid
 radar
-    title Technical Competency Radar
+    title Frontend vs Backend Expertise
     options:
         scale: 0
         max: 100
-    "Linux Administration" : 95
-    "Cloud Architecture" : 88
-    "DevOps Practices" : 85
-    "Security Management" : 82
-    "Automation Scripting" : 90
-    "Database Administration" : 75
-    "Network Configuration" : 80
-    "Monitoring & Alerting" : 87
+    "React Development" : 90
+    "Angular Framework" : 75
+    "UI/UX Design" : 80
+    "API Integration" : 95
+    "Database Design" : 88
+    "Server Management" : 85
+    "Security Implementation" : 82
+    "Performance Optimization" : 87
 ```
 
-### **🎯 Learning & Development Path - Graphique Timeline**
-```mermaid
-journey
-    title Professional Development Journey
-    section 2019-2020
-      Junior Admin      : 3: Me
-      First Certification: 4: Me
-      Team Collaboration: 3: Me
-    section 2021-2022
-      Senior Role       : 5: Me
-      Cloud Migration   : 4: Me
-      Team Leadership   : 5: Me
-    section 2023-2024
-      Architecture Design: 4: Me
-      DevOps Integration : 5: Me
-      Mentorship Role    : 5: Me
+### **🎯 Technology Mastery Levels - Graphiques en Bandes Colorées**
+
+**Frontend Technologies**
+```
+┌─────────────────────────────────────────────────────────┐
+│ React.js & React Native ████████████████████████   90% │
+│ Angular.js              ███████████████████        75% │
+│ HTML5 & CSS3           ████████████████████████   95% │
+│ JavaScript (ES6+)      ██████████████████████     90% │
+│ Tailwind CSS           █████████████████████      85% │
+│ Bootstrap              ██████████████████████     90% │
+└─────────────────────────────────────────────────────────┘
 ```
 
-### **💡 Innovation & Problem-Solving - Graphique Flowchart**
+**Backend & Infrastructure**
+```
+┌─────────────────────────────────────────────────────────┐
+│ Node.js & Express      ████████████████████████   88% │
+│ PHP & Laravel          ████████████████████████   95% │
+│ MySQL & PostgreSQL     ████████████████████████   88% │
+│ Docker & Kubernetes    ███████████████████       75% │
+│ Linux Administration   █████████████████████     85% │
+│ Apache & Nginx         █████████████████████     85% │
+└─────────────────────────────────────────────────────────┘
+```
+
+### **🔄 Development Workflow - Graphique Process Flow**
 ```mermaid
 flowchart TD
-    A[🎯 Problem Identification] --> B{📊 Analysis}
-    B -->|Complex| C[🔬 Deep Research]
-    B -->|Standard| D[📋 Best Practices]
-    C --> E[💡 Innovation Solution]
-    D --> F[⚡ Quick Implementation]
-    E --> G[🧪 Testing & Validation]
-    F --> G
-    G --> H{✅ Success?}
-    H -->|Yes| I[🚀 Deployment]
-    H -->|No| J[🔄 Iteration]
-    J --> B
-    I --> K[📈 Monitoring]
-    K --> L[📚 Documentation]
+    A[🎯 Requirements Analysis] --> B{📊 Technology Stack}
+    B -->|Frontend Heavy| C[⚛️ React/Angular Setup]
+    B -->|Backend Heavy| D[🚀 Node.js/PHP Setup]
+    B -->|Full Stack| E[🔄 Complete Architecture]
+    
+    C --> F[🎨 UI/UX Development]
+    D --> G[🗄️ Database Design]
+    E --> H[🏗️ System Integration]
+    
+    F --> I[🧪 Frontend Testing]
+    G --> J[🔍 API Testing]
+    H --> K[⚡ Performance Testing]
+    
+    I --> L[🚢 Deployment]
+    J --> L
+    K --> L
+    
+    L --> M[📊 Monitoring & Maintenance]
+    M --> N[📈 Performance Analytics]
     
     style A fill:#e1f5fe
     style E fill:#f3e5f5
-    style I fill:#e8f5e8
-    style K fill:#fff3e0
+    style L fill:#e8f5e8
+    style M fill:#fff3e0
 ```
 
 ---
