@@ -20,9 +20,9 @@
 ### **Frontend**
 ```mermaid
 pie title Frontend Technologies
-    "React.js" : 40
-    "Angular" : 25
-    "JavaScript ES6+" : 35
+    "React.js" : 37.5
+    "React Native" : 25
+    "JavaScript ES6+" : 37.5
 ```
 
 ![React](https://img.shields.io/badge/React-90%25-61DAFB?style=flat&logo=react)
@@ -35,8 +35,8 @@ pie title Frontend Technologies
 ### **Backend**
 ```mermaid
 pie title Backend Technologies  
-    "Node.js" : 35
-    "PHP Laravel" : 40
+    "Node.js" : 40
+    "PHP Laravel" : 35
     "Databases" : 25
 ```
 
@@ -52,7 +52,7 @@ pie title Backend Technologies
 Docker & Kubernetes     ████████████████████ 85%
 Linux Administration    ██████████████████   82%
 Jenkins CI/CD          ███████████████      70%
-Apache & Nginx         ██████████████████   85%
+Apache & Nginx         ████████████████████   85%
 ```
 
 ![Docker](https://img.shields.io/badge/Docker-85%25-2496ED?style=flat&logo=docker)
@@ -80,9 +80,10 @@ Apache & Nginx         ██████████████████   
 |---------|------------|--------|------|
 | **💳 Cerveau Money** | Node.js, React, MongoDB | 🟢 Live | [cerveau.onrender.com](https://cerveau.onrender.com/) |
 | **🎨 Sophia Culturas** | React, Node.js, PostgreSQL | 🟢 Live | [sophiaculturas.onrender.com](https://sophiaculturas.onrender.com) |
-| **🚗 Parejo Viaje** | React, JavaScript, APIs | 🟢 Live | [parejo-transport](https://nfcdjobo.github.io/parejo-transport) |
-| **👥 Pro Gest All** | PHP, JavaScript, MySQL | 🟢 Live | [Pro-Gest-All](https://nfcdjobo.github.io/Pro-Gest-All) |
+| **🚗 Parejo Viaje** | React, JavaScript, APIs | MySQL | 🟢 Live | [parejo-transport](https://nfcdjobo.github.io/parejo-transport) |
+| **👥 Pro Gest All** | HTML5, CSS3, JavaScript, LocalStorage | 🟢 Live | [Pro-Gest-All](https://nfcdjobo.github.io/Pro-Gest-All) |
 | **🏢 Barri Services** | PHP Laravel, MySQL | 🟢 Live | [barriservices.com](https://barriservices.com) |
+| **🏢 Bolou Business Center** | PHP Laravel, MySQL | 🟢 Live | [bbcenter.africa](https://www.bbcenter.africa) |
 
 ### **Project Impact**
 ```mermaid
@@ -101,19 +102,6 @@ radar
 
 ---
 
-## 💼 **Professional Experience**
-
-**🚀 AkorIT** - *Full Stack Dev & SysAdmin* | `Aug 2024 - Present`
-- Application architecture & deployment
-- Infrastructure security & optimization
-- **Stack:** React, Node.js, Docker, Kubernetes, Linux
-
-**💻 Digitech Africa** - *Backend Developer* | `Jan - Jul 2024`
-- RESTful API development
-- Database optimization
-- **Stack:** Node.js, PHP, MySQL, PostgreSQL
-
----
 
 ## 🎓 **Education & Training**
 
@@ -133,15 +121,3 @@ radar
 ![Spanish](https://geps.dev/progress/70?color=AA151B) **Español** - Intermediate  
 
 ---
-
-## 📞 **Contact**
-
-<div align="center">
-
-📧 **nfcdjobo@gmail.com**  
-📱 **+225 0575554499** | **+225 0140940330**  
-🏠 **Abidjan, Côte d'Ivoire** 🇨🇮
-
-**Available for senior Full Stack & DevOps opportunities**
-
-</div>
