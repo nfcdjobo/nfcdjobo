@@ -22,10 +22,10 @@
 <div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 ```mermaid
-%%{init: {'pie': {'textPosition': 0.75}, 'themeVariables': {'pieOuterStrokeWidth': '2px'}}}%%
+%%{init: {'pie': {'textPosition': 0.5}, 'themeVariables': {'pieOuterStrokeWidth': '3px', 'pieSectionTextSize': '14px'}}}%%
 pie title Frontend Technologies
     "React.js" : 37.5
     "React Native" : 25
@@ -33,10 +33,10 @@ pie title Frontend Technologies
 ```
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 ```mermaid
-%%{init: {'pie': {'textPosition': 0.75}, 'themeVariables': {'pieOuterStrokeWidth': '2px'}}}%%
+%%{init: {'pie': {'textPosition': 0.5}, 'themeVariables': {'pieOuterStrokeWidth': '3px', 'pieSectionTextSize': '14px'}}}%%
 pie title Backend Technologies  
     "Node.js" : 40
     "PHP Laravel" : 35
