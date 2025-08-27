@@ -36,7 +36,7 @@ pie title Frontend Technologies
 <td width="50%" align="center">
 
 ```mermaid
-%%{init: {'pie': {'textPosition': 0.5}, 'themeVariables': {'pieOuterStrokeWidth': '3px', 'pieSectionTextSize': '14px'}}}%%
+%%{init: {'pie': {'textPosition': 0.5}, 'themeVariables': {'pieOuterStrokeWidth': '2px', 'pieSectionTextSize': '14px'}}}%%
 pie title Backend Technologies  
     "Node.js" : 40
     "PHP Laravel" : 35
