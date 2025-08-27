@@ -226,68 +226,6 @@ timeline
 
 ---
 
-## 🏗️ **Featured Development Projects**
-
-### **💳 Cerveau Money - Digital Payment Platform**
-```yaml
-Description: Dynamic digital payment platform for financial transactions
-Technologies: Node.js, Express.js, React.js, MongoDB, Payment APIs
-Duration: August 2023
-Status: Production Ready
-Link: https://cerveau.onrender.com/
-Academy: NaN Digital Academy
-```
-
-**Project Impact Metrics:**
-```
-User Experience Design      ████████████████████████████ 90%
-Payment Integration        ██████████████████████████   85%
-Security Implementation    █████████████████████████    88%
-Performance Optimization   ████████████████████████     82%
-```
-
-### **🎨 Sophia Culturas - Art Exhibition Platform**
-```yaml
-Description: Dynamic platform for showcasing and managing artistic works
-Technologies: React.js, Node.js, Express.js, PostgreSQL, Image Processing
-Duration: July 2023
-Status: Live Production
-Link: https://sophiaculturas.onrender.com
-Academy: NaN Digital Academy
-```
-
-### **🚗 Parejo Viaje - Transport Management System**
-```yaml
-Description: Comprehensive transport company management platform
-Technologies: React.js, JavaScript, Bootstrap, RESTful APIs
-Duration: June 2023  
-Status: Deployed
-Link: https://nfcdjobo.github.io/parejo-transport
-Academy: NaN Digital Academy
-```
-
-### **👥 Pro Gest All - Personnel Management System**
-```yaml
-Description: Dynamic web application for human resource management
-Technologies: PHP, JavaScript, MySQL, Bootstrap, Ajax
-Duration: May 2023
-Status: Production
-Link: https://nfcdjobo.github.io/Pro-Gest-All
-Academy: NaN Digital Academy
-Reference: Mr. KOUAME: +2250759362229
-```
-
-### **🏢 Business Platforms - Enterprise Solutions**
-```yaml
-Description: IT Evolutions platform (now Barri Services) & Bolou Business Center
-Technologies: PHP Laravel, MySQL, JavaScript, Bootstrap
-Duration: 2022
-Status: Live Production
-Links: 
-  - https://barriservices.com
-  - https://www.bbcenter.africa
-Reference: Mr. KADJO: +2250708948093
-```
 
 ### **📊 Projects Technology Distribution - Graphique Circulaire**
 ```mermaid
@@ -308,8 +246,6 @@ Code Quality Standards     █████████████████�
 ```
 
 ---
-
-## 🏗️ **Featured Projects**
 
 ### **🌐 Multi-Cloud Infrastructure Migration**
 ```yaml
