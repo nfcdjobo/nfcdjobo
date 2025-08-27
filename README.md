@@ -25,7 +25,7 @@
 <td width="50%" align="center">
 
 ```mermaid
-%%{init: {'pie': {'textPosition': 0.5}, 'themeVariables': {'pieOuterStrokeWidth': '3px', 'pieSectionTextSize': '14px'}}}%%
+%%{init: {'pie': {'textPosition': 0.5}, 'themeVariables': {'pieOuterStrokeWidth': '2px', 'pieSectionTextSize': '14px'}}}%%
 pie title Frontend Technologies
     "React.js" : 37.5
     "React Native" : 25
