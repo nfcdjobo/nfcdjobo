@@ -102,23 +102,6 @@ Apache & Nginx         ███████████████████
 | **🏢 Barri Services** | PHP Laravel, MySQL | 🟢 Live | [barriservices.com](https://barriservices.com) |
 | **🏢 Bolou Business Center** | PHP Laravel, MySQL | 🟢 Live | [bbcenter.africa](https://www.bbcenter.africa) |
 
-### **Project Impact**
-```mermaid
-radar
-    title Project Complexity & Success
-    options:
-        scale: 0
-        max: 100
-    "Technical Complexity" : 88
-    "User Experience" : 90
-    "Performance" : 85
-    "Security" : 82
-    "Scalability" : 87
-    "Code Quality" : 90
-```
-
----
-
 
 ## 🎓 **Education & Training**
 
