@@ -17,14 +17,38 @@
 
 ## 🚀 **Tech Stack**
 
-### **Frontend**
+### **Frontend & Backend**
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
 ```mermaid
+%%{init: {'pie': {'textPosition': 0.75}, 'themeVariables': {'pieOuterStrokeWidth': '2px'}}}%%
 pie title Frontend Technologies
     "React.js" : 37.5
     "React Native" : 25
     "JavaScript ES6+" : 37.5
 ```
 
+</td>
+<td width="50%">
+
+```mermaid
+%%{init: {'pie': {'textPosition': 0.75}, 'themeVariables': {'pieOuterStrokeWidth': '2px'}}}%%
+pie title Backend Technologies  
+    "Node.js" : 40
+    "PHP Laravel" : 35
+    "Databases" : 25
+```
+
+</td>
+</tr>
+</table>
+</div>
+
+### **Frontend Technologies**
 ![React](https://img.shields.io/badge/React-90%25-61DAFB?style=flat&logo=react)
 ![Angular](https://img.shields.io/badge/Angular-75%25-DD0031?style=flat&logo=angular)
 ![JavaScript](https://img.shields.io/badge/JavaScript-90%25-F7DF1E?style=flat&logo=javascript)
@@ -32,14 +56,7 @@ pie title Frontend Technologies
 ![CSS3](https://img.shields.io/badge/CSS3-95%25-1572B6?style=flat&logo=css3)
 ![Tailwind](https://img.shields.io/badge/Tailwind-85%25-06B6D4?style=flat&logo=tailwindcss)
 
-### **Backend**
-```mermaid
-pie title Backend Technologies  
-    "Node.js" : 40
-    "PHP Laravel" : 35
-    "Databases" : 25
-```
-
+### **Backend Technologies**
 ![Node.js](https://img.shields.io/badge/Node.js-88%25-339933?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-88%25-000000?style=flat&logo=express)
 ![PHP](https://img.shields.io/badge/PHP-95%25-777BB4?style=flat&logo=php)
