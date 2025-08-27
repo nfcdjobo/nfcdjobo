@@ -25,7 +25,7 @@
 <td width="50%" align="center">
 
 ```mermaid
-%%{init: {'pie': {'textPosition': 0.5}, 'themeVariables': {'pieOuterStrokeWidth': '3px', 'pieSectionTextSize': '14px'}}}%%
+%%{init: {'pie': {'textPosition': 0.6}, 'themeVariables': {'pieOuterStrokeWidth': '4px', 'pieSectionTextSize': '16px', 'pieOuterStrokeColor': '#333333'}, 'theme': 'base'}}%%
 pie title Frontend Technologies
     "React.js" : 37.5
     "React Native" : 25
@@ -36,7 +36,7 @@ pie title Frontend Technologies
 <td width="50%" align="center">
 
 ```mermaid
-%%{init: {'pie': {'textPosition': 0.5}, 'themeVariables': {'pieOuterStrokeWidth': '3px', 'pieSectionTextSize': '14px'}}}%%
+%%{init: {'pie': {'textPosition': 0.6}, 'themeVariables': {'pieOuterStrokeWidth': '4px', 'pieSectionTextSize': '16px', 'pieOuterStrokeColor': '#333333'}, 'theme': 'base'}}%%
 pie title Backend Technologies  
     "Node.js" : 40
     "PHP Laravel" : 35
