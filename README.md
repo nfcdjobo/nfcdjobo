@@ -97,7 +97,7 @@ Apache & Nginx         ███████████████████
 |---------|------------|--------|------|
 | **💳 Cerveau Money** | Node.js, React, MongoDB | 🟢 Live | [cerveau.onrender.com](https://cerveau.onrender.com/) |
 | **🎨 Sophia Culturas** | React, Node.js, PostgreSQL | 🟢 Live | [sophiaculturas.onrender.com](https://sophiaculturas.onrender.com) |
-| **🚗 Parejo Viaje** | React, JavaScript, APIs | MySQL | 🟢 Live | [parejo-transport](https://nfcdjobo.github.io/parejo-transport) |
+| **🚗 Parejo Viaje** | React, JavaScript, APIs, MySQL | 🟢 Live | [parejo-transport](https://nfcdjobo.github.io/parejo-transport) |
 | **👥 Pro Gest All** | HTML5, CSS3, JavaScript, LocalStorage | 🟢 Live | [Pro-Gest-All](https://nfcdjobo.github.io/Pro-Gest-All) |
 | **🏢 Barri Services** | PHP Laravel, MySQL | 🟢 Live | [barriservices.com](https://barriservices.com) |
 | **🏢 Bolou Business Center** | PHP Laravel, MySQL | 🟢 Live | [bbcenter.africa](https://www.bbcenter.africa) |
