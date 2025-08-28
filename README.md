@@ -103,15 +103,6 @@ Apache & Nginx         ███████████████████
 | **🏢 Bolou Business Center** | PHP Laravel, MySQL | 🟢 Live | [bbcenter.africa](https://www.bbcenter.africa) |
 
 
-## 🎓 **Education & Training**
-
-```yaml
-2024: Advanced Docker & Kubernetes (LinkedIn Learning)
-2023: Full Stack JavaScript (NaN Digital Academy)
-2022: PHP Laravel Development (IT Academy)
-2021: Bachelor's in Database Systems (UVCI)
-```
-
 ---
 
 ## 🌍 **Languages**
