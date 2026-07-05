@@ -152,7 +152,7 @@ Développeur:
 <td><a href="https://nfcdjobo.github.io/Pro-Gest-All">Visiter →</a></td>
 </tr>
 <tr>
-<td>📱 <b>LeBonCouple</b><br><sub>Application mobile de rencontre</sub></td>
+<td>📱 <b>LeBonCouple</b><br><sub>Suivi & prédiction de cycle menstruel</sub></td>
 <td><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></td>
 <td><img src="https://img.shields.io/badge/●-Hors%20ligne-lightgrey?style=flat-square"/></td>
 <td><em>Bientôt disponible</em></td>
