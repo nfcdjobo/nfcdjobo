@@ -114,12 +114,14 @@ Apache & Nginx / Traefik████████████████░░�
 
 | Projet | Stack | Statut | Lien |
 |---|---|---|---|
-| 💳 **Cerveau Money** | Node.js, React, MongoDB | 🟢 En ligne | [cerveau.onrender.com](https://cerveau.onrender.com/) |
-| 🎨 **Sophia Culturas** | React, Node.js, PostgreSQL | 🟢 En ligne | [sophiaculturas.onrender.com](https://sophiaculturas.onrender.com) |
-| 🚗 **Parejo Viaje** | React, JavaScript, APIs, MySQL | 🟢 En ligne | [parejo-transport](https://nfcdjobo.github.io/parejo-transport) |
-| 👥 **Pro Gest All** | HTML5, CSS3, JavaScript, LocalStorage | 🟢 En ligne | [Pro-Gest-All](https://nfcdjobo.github.io/Pro-Gest-All) |
-| 🏢 **Barri Services** | PHP Laravel, MySQL | 🟢 En ligne | [barriservices.com](https://barriservices.com) |
-| 🏢 **Bolou Business Center** | PHP Laravel, MySQL | 🟢 En ligne | [bbcenter.africa](https://www.bbcenter.africa) |
+| 💳 **AhouBa (Gestion Commerciale)** | PHP Laravel, JavaScript, PostgreSQL | 🟢 En ligne | [Visiter](https://ahouba.barriservices.com/) |
+| 💳 **LeBonCouple (App mobile)** | NodeJs Express, React Native, MongoDB | 🔴 Hors ligne | [Télécharger]() |
+| 💳 **Cerveau Money (Transaction en ligne)** | NodeJs Express, React, MongoDB | 🟢 En ligne | [Visiter](https://cerveau.onrender.com/) |
+| 🎨 **Sophia Culturas (Exposition d'oeuvre artistique)** | React, Node.js (API), PostgreSQL | 🟢 En ligne | [Visiter](https://sophiaculturas.onrender.com) |
+| 🚗 **Parejo Viaje** | HTML5, CSS3, JavaScript, NodeJs Express (APIs), MySQL | 🔴 Hors ligne | [Visiter](https://nfcdjobo.github.io/parejo-transport) |
+| 👥 **Pro Gest All** | HTML5, CSS3, JavaScript, LocalStorage | 🟢 En ligne | [Visiter](https://nfcdjobo.github.io/Pro-Gest-All) |
+| 🏢 **Barri Services** | PHP Laravel, MySQL | 🟢 En ligne | [Visiter](https://barriservices.com) |
+| 🏢 **Bolou Business Center** | PHP Laravel, MySQL | 🟢 En ligne | [Visiter](https://www.bbcenter.africa) |
 
 ---
 
