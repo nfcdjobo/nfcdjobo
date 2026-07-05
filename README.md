@@ -1,150 +1,220 @@
-# 👋 Salut, je suis DJOBO N'dri François Carêm
-
-## 💻 Full Stack Developer & System Administrator — Abidjan, Côte d'Ivoire
-
 <div align="center">
 
-![Full Stack](https://img.shields.io/badge/Full%20Stack-Expert-blue?style=for-the-badge&logo=react)
-![DevOps](https://img.shields.io/badge/DevOps-Senior-green?style=for-the-badge&logo=kubernetes)
-![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-orange?style=for-the-badge)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=DJOBO%20N'dri%20Fran%C3%A7ois%20Car%C3%AAm&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20System%20Administrator&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://github.com/nfcdjobo">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+%F0%9F%92%BB;Laravel+%26+Node.js+Architect+%E2%9A%99%EF%B8%8F;Je+transforme+des+id%C3%A9es+en+plateformes+SaaS+%F0%9F%9A%80;Bas%C3%A9+%C3%A0+Abidjan%2C+C%C3%B4te+d%27Ivoire+%F0%9F%87%A8%F0%9F%87%AE&font=Fira+Code&size=20&pause=1500&color=2E9EF7&center=true&vCenter=true&width=650&height=45&separator=false" alt="Typing SVG" />
+</a>
+
+<br><br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-nfcdjobo-181717?style=for-the-badge&logo=github)](https://github.com/nfcdjobo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nfcdjobofullstackdeveoper/)
 [![Email](https://img.shields.io/badge/Email-nfcdjobo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nfcdjobo@gmail.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=nfcdjobo&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
----
+<br>
 
-## 🧑‍💻 À propos de moi
+## 🧭 À propos de moi
 
-Développeur Full Stack basé à Abidjan, je conçois et maintiens des plateformes SaaS métier pour le marché ivoirien et ouest-africain : gestion de caisse/stock, paie & RH, restauration, et géolocalisation de flottes. Je travaille aussi bien côté serveur (Laravel, Node.js) que côté client (React, React Native), avec une attention particulière portée à l'architecture multi-tenant, la robustesse des migrations de bases de données et le déploiement en environnement contraint (VPS, cPanel).
+> *"Construire des systèmes qui durent — de la base de données à l'interface."*
 
-- 🔭 En ce moment, je travaille sur une plateforme de **suivi de flotte GPS/RFID/IoT** (Node.js/Express/TypeScript/Sequelize) et sur des applications **React Native** (paiement Paystack, licences par appareil).
-- 🌱 J'approfondis actuellement Docker/Kubernetes et l'optimisation PostgreSQL (index composites, fonctions fenêtrées).
-- 🤝 Ouvert aux collaborations sur des projets Laravel/PostgreSQL et Node.js/TypeScript.
-- ⚡ Fun fact : je code aussi bien des systèmes de paie que des animations sur canvas !
+Je suis développeur Full Stack basé à **Abidjan**, spécialisé dans la conception de **plateformes SaaS métier** pour le marché ouest-africain : gestion commerciale, paie & RH, restauration et géolocalisation de flottes. Je conçois des architectures robustes, aussi bien côté serveur qu'interface, avec une exigence particulière sur la fiabilité des données et la scalabilité multi-tenant.
 
----
+```yaml
+Développeur:
+  nom: "DJOBO N'dri François Carêm"
+  role: "Full Stack Developer & System Administrator"
+  localisation: "Abidjan, Côte d'Ivoire"
+  focus_actuel:
+    - "Plateforme de suivi de flotte GPS/RFID/IoT (Node.js, TypeScript, Sequelize)"
+    - "Applications mobiles React Native (paiement Paystack, licences par appareil)"
+  en_apprentissage:
+    - "Kubernetes avancé"
+    - "Optimisation PostgreSQL (index composites, fonctions fenêtrées)"
+  disponible_pour: "Collaborations Laravel/PostgreSQL & Node.js/TypeScript"
+```
+
+<br>
 
 ## 🚀 Stack Technique
 
-### Frontend & Backend — répartition
-
 <div align="center">
-<table>
-<tr>
-<td width="50%" align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,php,laravel,postgres,mysql,mongodb,docker,kubernetes,linux,git,nginx,tailwind&theme=dark" />
+</div>
 
-```mermaid
-%%{init: {'pie': {'textPosition': 0.6}, 'themeVariables': {'pieOuterStrokeWidth': '4px', 'pieSectionTextSize': '16px', 'pieOuterStrokeColor': '#333333'}, 'theme': 'base'}}%%
-pie title Frontend Technologies
-    "React.js" : 37.5
-    "React Native" : 25
-    "JavaScript ES6+" : 37.5
-```
+<br>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Frontend
+| Techno | Niveau |
+|---|---|
+| React.js | ██████████████████░░ 90% |
+| React Native | █████████████████░░░ 85% |
+| JavaScript ES6+ | ██████████████████░░ 90% |
+| Tailwind CSS | █████████████████░░░ 85% |
+| Alpine.js | ████████████████░░░░ 80% |
+| Angular | ███████████████░░░░░ 75% |
 
 </td>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-```mermaid
-%%{init: {'pie': {'textPosition': 0.6}, 'themeVariables': {'pieOuterStrokeWidth': '4px', 'pieSectionTextSize': '16px', 'pieOuterStrokeColor': '#333333'}, 'theme': 'base'}}%%
-pie title Backend Technologies
-    "Node.js" : 40
-    "PHP / Laravel" : 35
-    "Bases de données" : 25
-```
+### ⚙️ Backend
+| Techno | Niveau |
+|---|---|
+| Laravel / PHP | ██████████████████░░ 95% |
+| Node.js / Express | █████████████████░░░ 88% |
+| PostgreSQL | █████████████████░░░ 85% |
+| TypeScript | ████████████████░░░░ 80% |
+| MySQL | ██████████████████░░ 90% |
+| MongoDB | ███████████████░░░░░ 75% |
 
 </td>
 </tr>
 </table>
-</div>
 
-### Frontend
-![React](https://img.shields.io/badge/React-90%25-61DAFB?style=flat&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-85%25-61DAFB?style=flat&logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-75%25-DD0031?style=flat&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-90%25-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-95%25-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-95%25-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-85%25-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-80%25-8BC0D0?style=flat&logo=alpinedotjs&logoColor=white)
+### 🛠️ DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-85%25-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-75%25-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-82%25-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-95%25-F05032?style=flat-square&logo=git&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-80%25-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx%2FTraefik-85%25-009639?style=flat-square&logo=nginx&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-88%25-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-88%25-000000?style=flat&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-95%25-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-95%25-FF2D20?style=flat&logo=laravel&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-80%25-3178C6?style=flat&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-90%25-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-85%25-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-75%25-47A248?style=flat&logo=mongodb&logoColor=white)
-
-### DevOps & Infrastructure
-```
-Docker & Kubernetes     █████████████████░░░  85%
-Linux Administration    ████████████████░░░░  82%
-Jenkins CI/CD           ██████████████░░░░░░  70%
-Apache & Nginx / Traefik████████████████░░░░  85%
-```
-
-![Docker](https://img.shields.io/badge/Docker-85%25-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-75%25-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-82%25-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-95%25-F05032?style=flat&logo=git&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-80%25-FF6C2C?style=flat&logo=cpanel&logoColor=white)
-
----
+<br>
 
 ## 📊 Statistiques GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nfcdjobo&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nfcdjobo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfcdjobo&layout=compact&theme=tokyonight&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nfcdjobo&layout=compact&theme=dark&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=nfcdjobo&theme=tokyonight&hide_border=true" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nfcdjobo&theme=dark&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nfcdjobo&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
 
----
+> 💡 *Si une carte ne s'affiche pas, c'est généralement une saturation temporaire du service public — un rafraîchissement quelques minutes plus tard résout le souci.*
 
-## 🏗️ Projets phares
+<br>
 
-| Projet | Stack | Statut | Lien |
-|---|---|---|---|
-| 💳 **AhouBa (Gestion Commerciale)** | PHP Laravel, JavaScript, PostgreSQL | 🟢 En ligne | [Visiter](https://ahouba.barriservices.com/) |
-| 💳 **LeBonCouple (App mobile)** | NodeJs Express, React Native, MongoDB | 🔴 Hors ligne | [Télécharger]() |
-| 💳 **Cerveau Money (Transaction en ligne)** | NodeJs Express, React, MongoDB | 🟢 En ligne | [Visiter](https://cerveau.onrender.com/) |
-| 🎨 **Sophia Culturas (Exposition d'oeuvre artistique)** | React, Node.js (API), PostgreSQL | 🟢 En ligne | [Visiter](https://sophiaculturas.onrender.com) |
-| 🚗 **Parejo Viaje** | HTML5, CSS3, JavaScript, NodeJs Express (APIs), MySQL | 🔴 Hors ligne | [Visiter](https://nfcdjobo.github.io/parejo-transport) |
-| 👥 **Pro Gest All** | HTML5, CSS3, JavaScript, LocalStorage | 🟢 En ligne | [Visiter](https://nfcdjobo.github.io/Pro-Gest-All) |
-| 🏢 **Barri Services** | PHP Laravel, MySQL | 🟢 En ligne | [Visiter](https://barriservices.com) |
-| 🏢 **Bolou Business Center** | PHP Laravel, MySQL | 🟢 En ligne | [Visiter](https://www.bbcenter.africa) |
+## 🏗️ Projets Phares
 
----
+<table width="100%">
+<tr>
+<th>Projet</th>
+<th>Stack</th>
+<th>Statut</th>
+<th>Lien</th>
+</tr>
+<tr>
+<td>💼 <b>AhouBa</b><br><sub>Gestion commerciale & stock</sub></td>
+<td><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/></td>
+<td><img src="https://img.shields.io/badge/●-En%20ligne-brightgreen?style=flat-square"/></td>
+<td><a href="https://ahouba.barriservices.com/">Visiter →</a></td>
+</tr>
+<tr>
+<td>💸 <b>Cerveau Money</b><br><sub>Transactions en ligne</sub></td>
+<td><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></td>
+<td><img src="https://img.shields.io/badge/●-En%20ligne-brightgreen?style=flat-square"/></td>
+<td><a href="https://cerveau.onrender.com/">Visiter →</a></td>
+</tr>
+<tr>
+<td>🎨 <b>Sophia Culturas</b><br><sub>Exposition d'œuvres artistiques</sub></td>
+<td><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/></td>
+<td><img src="https://img.shields.io/badge/●-En%20ligne-brightgreen?style=flat-square"/></td>
+<td><a href="https://sophiaculturas.onrender.com">Visiter →</a></td>
+</tr>
+<tr>
+<td>🏢 <b>Barri Services</b><br><sub>Plateforme de services IT</sub></td>
+<td><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></td>
+<td><img src="https://img.shields.io/badge/●-En%20ligne-brightgreen?style=flat-square"/></td>
+<td><a href="https://barriservices.com">Visiter →</a></td>
+</tr>
+<tr>
+<td>🏢 <b>Bolou Business Center</b><br><sub>Gestion de centre d'affaires</sub></td>
+<td><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></td>
+<td><img src="https://img.shields.io/badge/●-En%20ligne-brightgreen?style=flat-square"/></td>
+<td><a href="https://www.bbcenter.africa">Visiter →</a></td>
+</tr>
+<tr>
+<td>👥 <b>Pro Gest All</b><br><sub>Gestion de contacts</sub></td>
+<td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/LocalStorage-333?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/●-En%20ligne-brightgreen?style=flat-square"/></td>
+<td><a href="https://nfcdjobo.github.io/Pro-Gest-All">Visiter →</a></td>
+</tr>
+<tr>
+<td>📱 <b>LeBonCouple</b><br><sub>Application mobile de rencontre</sub></td>
+<td><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></td>
+<td><img src="https://img.shields.io/badge/●-Hors%20ligne-lightgrey?style=flat-square"/></td>
+<td><em>Bientôt disponible</em></td>
+</tr>
+<tr>
+<td>🚗 <b>Parejo Viaje</b><br><sub>Réservation de transport</sub></td>
+<td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></td>
+<td><img src="https://img.shields.io/badge/●-Hors%20ligne-lightgrey?style=flat-square"/></td>
+<td><a href="https://nfcdjobo.github.io/parejo-transport">Visiter →</a></td>
+</tr>
+</table>
 
-## 🛠️ Domaines d'expertise professionnelle
+<br>
 
-- **SaaS multi-tenant** : architecture `compagnie_id`, clés primaires UUID/ULID, soft deletes, permissions granulaires (RBAC)
-- **Paie & RH** : calculs fiscaux ivoiriens (ITS), historique immuable des paramètres, workflows d'approbation
-- **Point de vente & stock** : gestion de caisse, traçabilité, notifications push
-- **Géolocalisation IoT** : intégration GPS/RFID, API temps réel, tunnels SSH sécurisés
-- **DevOps** : Docker/Traefik, hébergement cPanel, CI/CD, gestion DNS et certificats SSL
+## 🎯 Domaines d'Expertise
 
----
+<table width="100%">
+<tr>
+<td width="20%" align="center">🏗️<br><b>SaaS Multi-tenant</b></td>
+<td>Architecture <code>compagnie_id</code>, clés primaires UUID/ULID, soft deletes, permissions granulaires (RBAC)</td>
+</tr>
+<tr>
+<td width="20%" align="center">💰<br><b>Paie & RH</b></td>
+<td>Calculs fiscaux ivoiriens (ITS), historique immuable des paramètres, workflows d'approbation</td>
+</tr>
+<tr>
+<td width="20%" align="center">🛒<br><b>Point de Vente & Stock</b></td>
+<td>Gestion de caisse, traçabilité des stocks, notifications push en temps réel</td>
+</tr>
+<tr>
+<td width="20%" align="center">📡<br><b>Géolocalisation IoT</b></td>
+<td>Intégration GPS/RFID, API temps réel, tunnels SSH sécurisés vers bases distantes</td>
+</tr>
+<tr>
+<td width="20%" align="center">☁️<br><b>DevOps</b></td>
+<td>Docker/Traefik, hébergement cPanel, CI/CD, gestion DNS et certificats SSL</td>
+</tr>
+</table>
+
+<br>
 
 ## 🌍 Langues
 
-![French](https://geps.dev/progress/100?color=0055A4) **Français** — Natif
-![English](https://geps.dev/progress/75?color=012169) **English** — Intermédiaire
-![Spanish](https://geps.dev/progress/70?color=AA151B) **Español** — Intermédiaire
+<div align="center">
 
----
+| 🇫🇷 Français | 🇬🇧 English | 🇪🇸 Español |
+|:---:|:---:|:---:|
+| Natif | Intermédiaire | Intermédiaire |
+| ![100%](https://geps.dev/progress/100?color=0055A4) | ![75%](https://geps.dev/progress/75?color=012169) | ![70%](https://geps.dev/progress/70?color=AA151B) |
+
+</div>
+
+<br>
 
 <div align="center">
 
-💬 **N'hésitez pas à me contacter pour toute collaboration ou opportunité !**
+### 💬 Discutons de votre prochain projet
+
+[![GitHub](https://img.shields.io/badge/GitHub-nfcdjobo-181717?style=for-the-badge&logo=github)](https://github.com/nfcdjobo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nfcdjobofullstackdeveoper/)
+[![Email](https://img.shields.io/badge/Email-Me%20contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nfcdjobo@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
