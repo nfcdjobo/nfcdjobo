@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=DJOBO%20N'dri%20Fran%C3%A7ois%20Car%C3%AAm&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20System%20Administrator&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/nfcdjobo">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+%F0%9F%92%BB;Laravel+%26+Node.js+Architect+%E2%9A%99%EF%B8%8F;Je+transforme+des+id%C3%A9es+en+plateformes+SaaS+%F0%9F%9A%80;Bas%C3%A9+%C3%A0+Abidjan%2C+C%C3%B4te+d%27Ivoire+%F0%9F%87%A8%F0%9F%87%AE&font=Fira+Code&size=18&pause=1500&color=2E9EF7&center=true&vCenter=true&width=800&height=45&separator=false" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+%F0%9F%92%BB;Laravel+%26+Node.js+Architect+%E2%9A%99%EF%B8%8F;Je+transforme+des+id%C3%A9es+en+plateformes+SaaS+%F0%9F%9A%80;Bas%C3%A9+%C3%A0+Abidjan%2C+C%C3%B4te+d%27Ivoire+%F0%9F%87%A8%F0%9F%87%AE&font=Fira+Code&size=18&pause=1500&color=2E9EF7&center=true&vCenter=true&width=800&height=45" alt="Typing SVG" />
 </a>
 
 <br><br>
