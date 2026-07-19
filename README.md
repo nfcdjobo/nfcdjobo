@@ -22,7 +22,7 @@
 
 > *"Construire des systèmes qui durent — de la base de données à l'interface."*
 
-Je suis développeur Full Stack basé à **Abidjan**, spécialisé dans la conception de **plateformes SaaS métier** pour le marché ouest-africain : gestion commerciale, paie & RH, restauration et géolocalisation de flottes. Je conçois des architectures robustes, aussi bien côté serveur qu'interface, avec une exigence particulière sur la fiabilité des données et la scalabilité multi-tenant.
+Je suis développeur Full Stack basé à **Abidjan**, spécialisé dans la conception de **plateformes SaaS métier** et d'**applications mobiles** pour le marché ouest-africain : gestion commerciale, paie & RH, santé mobile, restauration et géolocalisation de flottes. Je conçois des architectures robustes, aussi bien côté serveur qu'interface, avec une exigence particulière sur la fiabilité des données, la sécurité et la scalabilité multi-tenant.
 
 ```yaml
 Développeur:
@@ -30,8 +30,9 @@ Développeur:
   role: "Full Stack Developer & System Administrator"
   localisation: "Abidjan, Côte d'Ivoire"
   focus_actuel:
+    - "LeBonCouple — app mobile de suivi de cycle pour couples (React Native/Expo, Node.js, MongoDB, Socket.IO)"
     - "Plateforme de suivi de flotte GPS/RFID/IoT (Node.js, TypeScript, Sequelize)"
-    - "Applications mobiles React Native (paiement Paystack, licences par appareil)"
+    - "Paiements mobiles Paystack & licences par appareil"
   en_apprentissage:
     - "Kubernetes avancé"
     - "Optimisation PostgreSQL (index composites, fonctions fenêtrées)"
@@ -56,7 +57,7 @@ Développeur:
 | Techno | Niveau |
 |---|---|
 | React.js | ██████████████████░░ 90% |
-| React Native | █████████████████░░░ 85% |
+| React Native / Expo | █████████████████░░░ 85% |
 | JavaScript ES6+ | ██████████████████░░ 90% |
 | Tailwind CSS | █████████████████░░░ 85% |
 | Alpine.js | ████████████████░░░░ 80% |
@@ -73,7 +74,7 @@ Développeur:
 | PostgreSQL | █████████████████░░░ 85% |
 | TypeScript | ████████████████░░░░ 80% |
 | MySQL | ██████████████████░░ 90% |
-| MongoDB | ███████████████░░░░░ 75% |
+| MongoDB | ████████████████░░░░ 80% |
 
 </td>
 </tr>
@@ -86,6 +87,7 @@ Développeur:
 ![Git](https://img.shields.io/badge/Git-95%25-F05032?style=flat-square&logo=git&logoColor=white)
 ![cPanel](https://img.shields.io/badge/cPanel-80%25-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx%2FTraefik-85%25-009639?style=flat-square&logo=nginx&logoColor=white)
+![EAS](https://img.shields.io/badge/Expo%20EAS-Builds%20%26%20Credentials-000020?style=flat-square&logo=expo&logoColor=white)
 
 <br>
 
@@ -114,6 +116,12 @@ Développeur:
 <th>Stack</th>
 <th>Statut</th>
 <th>Lien</th>
+</tr>
+<tr>
+<td>📱 <b>LeBonCouple</b><br><sub>Suivi & prédiction du cycle menstruel pour couples — fertilité, grossesse (CPN), messagerie privée, notifications push</sub></td>
+<td><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/></td>
+<td><img src="https://img.shields.io/badge/●-B%C3%AAta-orange?style=flat-square"/></td>
+<td><em>Bientôt sur Play Store</em></td>
 </tr>
 <tr>
 <td>💼 <b>AhouBa</b><br><sub>Gestion commerciale & stock</sub></td>
@@ -152,12 +160,6 @@ Développeur:
 <td><a href="https://nfcdjobo.github.io/Pro-Gest-All">Visiter →</a></td>
 </tr>
 <tr>
-<td>📱 <b>LeBonCouple</b><br><sub>Suivi & prédiction de cycle menstruel et prériode de fertilité</sub></td>
-<td><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/●-Hors%20ligne-lightgrey?style=flat-square"/></td>
-<td><em>Bientôt disponible</em></td>
-</tr>
-<tr>
 <td>🚗 <b>Parejo Viaje</b><br><sub>Réservation de transport</sub></td>
 <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></td>
 <td><img src="https://img.shields.io/badge/●-Hors%20ligne-lightgrey?style=flat-square"/></td>
@@ -175,6 +177,10 @@ Développeur:
 <td>Architecture <code>compagnie_id</code>, clés primaires UUID/ULID, soft deletes, permissions granulaires (RBAC)</td>
 </tr>
 <tr>
+<td width="20%" align="center">📱<br><b>Mobile & Temps réel</b></td>
+<td>React Native/Expo (EAS builds), notifications push (Expo/FCM V1), Socket.IO, authentification OTP 2FA, mode hors ligne</td>
+</tr>
+<tr>
 <td width="20%" align="center">💰<br><b>Paie & RH</b></td>
 <td>Calculs fiscaux ivoiriens (ITS), historique immuable des paramètres, workflows d'approbation</td>
 </tr>
@@ -188,7 +194,7 @@ Développeur:
 </tr>
 <tr>
 <td width="20%" align="center">☁️<br><b>DevOps</b></td>
-<td>Docker/Traefik, hébergement cPanel, CI/CD, gestion DNS et certificats SSL</td>
+<td>Docker/Traefik, hébergement cPanel & Render, CI/CD, gestion DNS et certificats SSL, documentation OpenAPI/Swagger</td>
 </tr>
 </table>
 
