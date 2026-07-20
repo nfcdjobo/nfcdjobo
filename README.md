@@ -204,8 +204,8 @@ Développeur:
 
 | 🇫🇷 Français | 🇬🇧 English | 🇪🇸 Español |
 |:---:|:---:|:---:|
-| Natif | Intermédiaire | Intermédiaire |
-| ![100%](https://geps.dev/progress/100?color=0055A4) | ![75%](https://geps.dev/progress/75?color=012169) | ![70%](https://geps.dev/progress/70?color=AA151B) |
+| Natif | Débutant | Intermédiaire |
+| ![100%](https://geps.dev/progress/100?color=0055A4) | ![25%](https://geps.dev/progress/25?color=012169) | ![50%](https://geps.dev/progress/50?color=AA151B) |
 
 </div>
 
