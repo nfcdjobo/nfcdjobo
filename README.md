@@ -95,16 +95,14 @@ Développeur:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nfcdjobo&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfcdjobo&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-drc4.vercel.app/api?username=nfcdjobo&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-drc4.vercel.app/api/top-langs/?username=nfcdjobo&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://streak-stats.demolab.com/?user=nfcdjobo&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nfcdjobo&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
-
-> 💡 *Si une carte ne s'affiche pas, c'est généralement une saturation temporaire du service public — un rafraîchissement quelques minutes plus tard résout le souci.*
 
 <br>
 
