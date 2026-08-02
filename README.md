@@ -30,7 +30,7 @@ Développeur:
   role: "Full Stack Developer & System Administrator"
   localisation: "Abidjan, Côte d'Ivoire"
   focus_actuel:
-    - "LeBonCouple — app mobile de suivi de cycle pour couples (React Native/Expo, Node.js, MongoDB, Socket.IO)"
+    - "Liwa — app mobile de suivi de cycle pour couples (React Native/Expo, Node.js, MongoDB, Socket.IO)"
     - "Plateforme de suivi de flotte GPS/RFID/IoT (Node.js, TypeScript, Sequelize)"
     - "Paiements mobiles Paystack & licences par appareil"
   en_apprentissage:
@@ -116,7 +116,7 @@ Développeur:
 <th>Lien</th>
 </tr>
 <tr>
-<td>📱 <b>LeBonCouple</b><br><sub>Suivi & prédiction du cycle menstruel pour couples — fertilité, grossesse (CPN), messagerie privée, notifications push</sub></td>
+<td>📱 <b>Liwa</b><br><sub>Suivi & prédiction du cycle menstruel pour couples — fertilité, grossesse (CPN), messagerie privée, notifications push</sub></td>
 <td><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/></td>
 <td><img src="https://img.shields.io/badge/●-B%C3%AAta-orange?style=flat-square"/></td>
 <td><em>Bientôt sur Play Store</em></td>
