@@ -100,7 +100,8 @@ Développeur:
 
 <img src="https://streak-stats.demolab.com/?user=nfcdjobo&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nfcdjobo&theme=tokyo-night&hide_border=true" width="95%"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=nfcdjobo&theme=tokyo-night&hide_border=true" width="95%"/> -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nfcdjobo&theme=tokyo-night&hide_border=true&area=true&v=1" width="95%"/>
 
 </div>
 
